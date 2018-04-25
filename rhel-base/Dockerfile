@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/rhel
+FROM registry.access.redhat.com/rhel:7.4
 
 MAINTAINER Alejandro Martinez Ruiz <amr@redhat.com>
 
